@@ -9,8 +9,6 @@
 
 <br/>
 
-
-
 </div>
 
 <br/>
@@ -47,22 +45,23 @@ const pavan = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp,js&theme=dark" />
+<a name="languages"><img src="https://skillicons.dev/icons?i=py,java,c,cpp,js&theme=dark" /></a>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+<a name="frontend"><img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" /></a>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,firebase,cassandra&theme=dark" />
+<a name="backend"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,firebase,cassandra&theme=dark" /></a>
 
 **Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,postman,vscode&theme=dark" />
+<a name="devops"><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,postman,vscode&theme=dark" /></a>
 
 **AI & Automation**
 
+<a name="ai">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
@@ -70,6 +69,7 @@ const pavan = {
 <img src="https://img.shields.io/badge/Multi--Agent%20Systems-00C9A7?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CNNs-FF2D95?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -132,8 +132,6 @@ AI-assisted disaster-response platform using a **Siamese ResNet-50** model to cl
 </td>
 <td width="50%" valign="top">
 
-
-
 ### 📋 Simplified Jira
 Lightweight, **Agile-inspired project management system** with task tracking, issue assignment and workflow management.
 
@@ -142,7 +140,9 @@ Lightweight, **Agile-inspired project management system** with task tracking, is
 [🔗 View Project](https://github.com/pavankalyan7127/Simplified-Jira)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
 
 ### 🏫 VitSpaceFinder
 One-stop web solution for VIT students to **discover free classrooms across campus buildings in real time**.
@@ -170,32 +170,26 @@ One-stop web solution for VIT students to **discover free classrooms across camp
 <!-- ================= CERTIFICATIONS ================= -->
 ## 🏅 Certifications & Achievements
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Google%20Cloud-Cloud%20Digital%20Leader-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/STOZ%20Academy-AI%20Full%20Stack-FF6F00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Innovation%20Week%202025-2nd%20Place%20🥈-C0C0C0?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/VIT-Image%20Processing%20using%20CNN-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/VIT-Advanced%20Topics%20in%20Graph%20Theory-00C9A7?style=for-the-badge" />
-
-</div>
+- ☁️ **Google Cloud Certified – Cloud Digital Leader**, Google Cloud (Jul 2026)
+- 🤖 **AI Full Stack Course**, STOZ Academy (Mar 2026)
+- 🥈 **2nd Place, App Development Contest**, Innovation Week 2025, VIT Vellore
+- 🧠 **Value Added Course:** Image Processing using Convolutional Neural Networks (CNN), VIT
+- 📐 **Value Added Program:** Advanced Topics in Graph Theory, VIT
 
 <br/>
-
 
 <!-- ================= CONNECT ================= -->
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pavan-kalyan-k-1a79b2283/?isSelfProfile=true/">
+<a href="https://www.linkedin.com/in/pavan-kalyan-k-1a79b2283/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:pavankalyan7127@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=pavankalyan7127@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-pavankalyan7127@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<a href="tel:+916380272702">
+<a name="phone">
   <img src="https://img.shields.io/badge/Call-+91%206380272702-00C853?style=for-the-badge&logo=googlephone&logoColor=white" />
 </a>
 
