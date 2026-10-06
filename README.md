@@ -9,8 +9,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-00F5A0?style=for-the-badge&logo=rocket&logoColor=black" />
-<img src="https://komarev.com/ghpvc/?username=pavankalyan7127&label=Profile%20Views&color=ff2d95&style=for-the-badge" />
+
 
 </div>
 
