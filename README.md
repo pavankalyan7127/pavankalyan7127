@@ -77,7 +77,7 @@ const pavan = {
 
 <!-- ================= EXPERIENCE ================= -->
 ## 💼 Experience
-
+<div align="center">
 | Role | Company | Duration |
 |------|---------|----------|
 | 🚀 **Full Stack Developer & Team Leader** | **Valsco Technology** | Jun 2026 – Aug 2026 |
