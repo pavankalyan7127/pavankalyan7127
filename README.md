@@ -192,58 +192,19 @@ One-stop web solution for VIT students to **discover free classrooms across camp
 
 <br/>
 
-<!-- ================= GITHUB STATS ================= -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pavankalyan7127&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=FF2D95&text_color=C9D1D9&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavankalyan7127&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=pavankalyan7127&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5A0&fire=FF2D95&currStreakLabel=00F5A0" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=pavankalyan7127&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pavankalyan7127&bg_color=0D1117&color=00F5A0&line=FF2D95&point=FFFFFF&area=true&area_color=00F5A0&hide_border=true" width="100%" />
-
-</div>
-
-<!-- OPTIONAL: Contribution snake animation.
-     Needs the GitHub Action described in the chat. Uncomment after setting it up.
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pavankalyan7127/pavankalyan7127/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
--->
-
-<br/>
 
 <!-- ================= CONNECT ================= -->
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pavan-kalyan-k-1a79b2283/?isSelfProfile=true/">
+<a href="https://www.linkedin.com/in/pavan-kalyan-k-1a79b2283/?isSelfProfile=true/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:pavankalyan7127@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/pavankalyan7127">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
 <a href="tel:+916380272702">
   <img src="https://img.shields.io/badge/Call-+91%206380272702-00C853?style=for-the-badge&logo=googlephone&logoColor=white" />
 </a>
