@@ -77,7 +77,7 @@ const pavan = {
 
 <!-- ================= EXPERIENCE ================= -->
 ## 💼 Experience
-<div align="center">
+
 | Role | Company | Duration |
 |------|---------|----------|
 | 🚀 **Full Stack Developer & Team Leader** | **Valsco Technology** | Jun 2026 – Aug 2026 |
@@ -105,7 +105,7 @@ Multi-agent visualizer built with **n8n + LLM agents** that automates step-by-st
 
 📄 *Published in IEEE Xplore (ICETCI 2026)*
 
-[🔗 View Project](https://github.com/pavankalyan7127/REPO_NAME)
+[🔗 View Project](https://github.com/pavankalyan7127/Algorithm-Visualizer)
 
 </td>
 <td width="50%" valign="top">
@@ -115,7 +115,7 @@ Agentic AI runtime security harness that **intercepts tool calls** and enforces 
 
 `Agentic AI` `Security` `RBAC` `Runtime Enforcement`
 
-[🔗 View Project](https://github.com/pavankalyan7127/REPO_NAME)
+[🔗 View Project](https://github.com/pavankalyan7127/AI-Agent-Security-Runtime-Harness)
 
 </td>
 </tr>
@@ -127,29 +127,19 @@ AI-assisted disaster-response platform using a **Siamese ResNet-50** model to cl
 
 `Deep Learning` `ResNet-50` `CNN` `Computer Vision`
 
-[🔗 View Project](https://github.com/pavankalyan7127/REPO_NAME)
+[🔗 View Project](https://github.com/pavankalyan7127/AI-Powered-Disaster-Damage-Assessment)
 
 </td>
 <td width="50%" valign="top">
 
-### ⏱️ Smart Queue System
-AI-powered, scalable backend that lets users **join, track and optimize queues in real time**, minimizing wait times using distributed-systems concepts.
 
-`Backend` `Distributed Systems` `Real-time` `AI`
-
-[🔗 View Project](https://github.com/pavankalyan7127/REPO_NAME)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
 ### 📋 Simplified Jira
 Lightweight, **Agile-inspired project management system** with task tracking, issue assignment and workflow management.
 
 `Full Stack` `Agile` `Workflow`
 
-[🔗 View Project](https://github.com/pavankalyan7127/REPO_NAME)
+[🔗 View Project](https://github.com/pavankalyan7127/Simplified-Jira)
 
 </td>
 <td width="50%" valign="top">
@@ -159,7 +149,7 @@ One-stop web solution for VIT students to **discover free classrooms across camp
 
 `Web App` `Real-time` `Student Utility`
 
-[🔗 View Project](https://github.com/pavankalyan7127/REPO_NAME)
+[🔗 View Project](https://github.com/pavankalyan7127/VitSpaceFinder)
 
 </td>
 </tr>
